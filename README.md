@@ -10,7 +10,7 @@
 # VITBOOK
 > *More than just a social media platform*
 
-# Introduction
+# Introduction :mortar_board:
 
 ***VITBOOK is a __social media platform__ which is developed for the students of the Vellore Institute of Technology.***
 *This platform is developed with a motive of connecting Vitians of different background and providing them a platform to discuss their ideas and thoughts.*
@@ -36,7 +36,7 @@
 
 ***
 
-## Technology Stack
+## Technology Stack :computer:
 
 * Frontend
   * HTML
@@ -53,7 +53,7 @@
  
 ***
 
-## Tech Stack Involved
+## Tech Stack Involved :chart_with_upwards_trend:
 
 <div style="display: flex;justify-content: center;">
 
@@ -77,7 +77,7 @@
 <div/>
 ***
 
-## Quick Start 
+## Quick Start :paperclip:
 
 - Fork and Clone the repo using
 ```
